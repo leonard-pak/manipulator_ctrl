@@ -1,0 +1,3 @@
+manipulator_ctrl_pkg:
+    ros__parameters:
+        go_to_point_service: "go_to_point"
